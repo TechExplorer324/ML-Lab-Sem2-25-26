@@ -11,3 +11,5 @@
 3rd Activity --> Gradient Descent in Boston Dataset [Challenge/HW QUestion]
 -Use gradient2.ipynb
 - Data should be from file Cleaned Up Boston House Price Data.xlsx [Generated before in activity 1]
+
+Boston House Price Data is original file gotten - it does not have any missing values which i had manually added
