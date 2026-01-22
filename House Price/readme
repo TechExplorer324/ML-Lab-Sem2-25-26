@@ -1,0 +1,13 @@
+1st activity --> Scikit Learn on Boston Data set
+
+- Use scikitregression2.ipynb file 
+- Use Boston House Price Data copy.csv for data
+- Dataset info for dataset information
+
+2nd activity --> Graident Descent in 1 variable term only
+- Use graident1.ipynb
+- Use gradientData.csv
+
+3rd Activity --> Gradient Descent in Boston Dataset [Challenge/HW QUestion]
+-Use gradient2.ipynb
+- Data should be from file Cleaned Up Boston House Price Data.xlsx [Generated before in activity 1]
